@@ -1,5 +1,5 @@
 package com.example.demo2.model;
-
+//bdbbdbdbb
 public class Links {
     private Self self;
 
