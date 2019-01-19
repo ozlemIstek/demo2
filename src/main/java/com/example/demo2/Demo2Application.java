@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-//eneme özlem
+//dghjsghhgdfghdsfhhj
 public class Demo2Application {
 
     public static void main(String[] args) {
